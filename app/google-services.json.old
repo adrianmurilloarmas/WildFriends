@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "598402442366",
+    "project_id": "wildfriends-70c27",
+    "storage_bucket": "wildfriends-70c27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598402442366:android:0f9edf785a0730eefae42f",
+        "android_client_info": {
+          "package_name": "com.mssde.pas.wildfriends"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598402442366-mbvsejd5jtk1qpmhss0cgcmls4va5ppa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mssde.pas.wildfriends",
+            "certificate_hash": "fdca2be9c312418a909c2102dd42905c0e28a313"
+          }
+        },
+        {
+          "client_id": "598402442366-219074lempanrurrpjuc41991ddij46g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClDI1jwANXc2ZZkGa0W8uzyKgkps0NiHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598402442366-219074lempanrurrpjuc41991ddij46g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

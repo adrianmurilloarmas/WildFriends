@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">WildFriends</string>
+
+    <string name="logout_button">Logout</string>
+    <string name="log_text">Login in Wild Friends!</string>
+
+    <string name="login_user">User: %s</string>
+
+    <string name="signed_cancelled">Signed in cancelled</string>
+    <string name="signed_in">Signed in!</string>
+    <string name="signed_out">Signed out!</string>
+    <string name="switch_test">Switch_test</string>
+
+    <string name="menu">Menu</string>
+
+    <string name="publicar_button">Publicar Anuncio</string>
+    <string name="ver_publi_button">Ver Publicaciones</string>
+    <string name="ver_mapa_button">Ver Mapa de la Zona</string>
+    <string name="ver_mes_button">Ver Mensajes</string>
+
+    <string name="publicar_title">Nueva Publicación</string>
+
+    <string name="type_animal_text">Tipo de Animal:</string>
+    <string name="info_text">Información</string>
+    <string name="breed_text">Raza: </string>
+    <string name="zone_text">Zona: </string>
+    <string name="date_text">Fecha: </string>
+    <string name="img_text">Imágenes: </string>
+    <string name="perdido_text">Perdido</string>
+    <string name="encontrado_text">Encontrado</string>
+
+    <string name="animal_type">Perro, Gato, Pájaro, …</string>
+    <string name="location">Tres Cantos, Madrid; Alcorcón, Madrid; …</string>
+    <string name="breed">Rottweiler, Persa, Canario, …</string>
+    <string name="info">Se llama Black, es asustadizo, no intentar coger …</string>
+
+    <string name="ad_title">Perdido/Encontrado</string>
+    <string name="animal_type_ad">Tipo de animal:</string>
+
+    <string name="location_text_button">Ubicacion Actual</string>
+    <string name="browser_button_text">Explorar</string>
+    <string name="publsh_button_text">Publicar</string>
+
+    <string name="map_title_text">Mapa de la zona</string>
+    <string name="info_ad">Información:\n</string>
+    <string name="location_ad">"Ubicación: "</string>
+    <string name="breed_ad">"Raza: "</string>
+    <string name="user_contact_button_ad">"Contactar"</string>
+    <string name="ads_list_title_text">Anuncios</string>
+
+    <string name="title1_menu">Detalless</string>
+    <string name="title2_menu">Ver en Mapa</string>
+</resources>
